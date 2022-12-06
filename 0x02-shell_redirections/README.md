@@ -1,1 +1,1 @@
-save directory
+duplicate lastline
